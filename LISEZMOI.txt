@@ -1,0 +1,18 @@
+MAXI tv 2.0 - application Android native (Kotlin) pour Fire TV, Bbox TV 4K et Android TV
+
+POUR GITHUB (depot Sahdim/MAXITV-4K)
+1. Decompresse ce zip.
+2. Sur GitHub : Add file > Upload files.
+3. Glisse le CONTENU du dossier (app, gradle, .github, build.gradle.kts, etc.).
+   GitHub te demande de remplacer les fichiers existants : accepte.
+   (Les anciens fichiers de la version Leanback sont remplaces par des fichiers vides : c'est voulu.)
+4. Commit changes, puis onglet Actions : le build demarre seul.
+5. Quand il est vert : Releases > latest > MAXItv.apk.
+
+TELECOMMANDE
+- Accueil : haut/bas/gauche/droite pour naviguer, OK pour ouvrir. Maintenir OK sur une affiche = favori.
+- Lecteur : OK = pause + barre, gauche/droite = reculer/avancer, haut/bas = menus Audio / Sous-titres / Image / Vitesse.
+  Sur une chaine : haut/bas = changer de chaine.
+- Profil : profils, 5 themes de couleurs, cle des sous-titres en ligne (wyzie.io).
+
+Ne mets jamais d'identifiants IPTV dans le depot : l'app les demande a l'ecran de connexion.
