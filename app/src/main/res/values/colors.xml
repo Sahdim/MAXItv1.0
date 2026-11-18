@@ -1,8 +1,0 @@
-<resources>
-    <color name="background_gradient_start">#000000</color>
-    <color name="background_gradient_end">#DDDDDD</color>
-    <color name="bg">#050505</color>
-    <color name="panel">#161A22</color>
-    <color name="accent">#2ECC71</color>
-    <color name="muted">#99FFFFFF</color>
-</resources>

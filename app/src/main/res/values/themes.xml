@@ -1,6 +1,0 @@
-<resources>
-    <style name="Theme.MaxiTv" parent="@android:style/Theme.Material.NoActionBar">
-        <item name="android:windowBackground">@color/bg</item>
-        <item name="android:windowAnimationStyle">@null</item>
-    </style>
-</resources>
